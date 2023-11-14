@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there! My name is Sergey 👋
 
-<!--
-**visyak/visyak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Manual tester from Volgograd
 
-Here are some ideas to get you started:
+ ###  About me
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Graduated from SkillFactory school with a degree in QAP
+- 📚 Now I continue to read literature to improve my testing skills
+
+- 📫 Contact me at:
+    - ✉️ email: sergey.visin92@gmail.com
+
+
+ 
+- 📌 My practical and final papers written in the Python programming language are stored here.
