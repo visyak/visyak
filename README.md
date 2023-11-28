@@ -11,6 +11,7 @@
 - 📫 Contact me at:
     - ✉️ email: sergey.visin92@gmail.com
     - Telegram: [hot_sneg](https://t.me/serg_vi)
+    - Twitter: [serg_visyak](https://twitter.com/serg_visyak)
 
 
  
