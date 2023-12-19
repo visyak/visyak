@@ -4,7 +4,7 @@
 
  ###  About me
  
-
+- 📌 My practical and final papers written in the Python programming language are stored here.
 - 🎓 Graduated from SkillFactory school with a degree in QAP
 - 📚 Now I continue to read literature to improve my testing skills
 
@@ -15,4 +15,4 @@
 
 
  
-- 📌 My practical and final papers written in the Python programming language are stored here.
+
