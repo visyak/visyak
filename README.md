@@ -10,7 +10,6 @@
 
 - 📫 Contact me at:
     - ✉️ email: sergey.visin92@gmail.com
-    - Telegram: [serg_vi](https://t.me/serg_vi)
     - Twitter: [serg_visyak](https://twitter.com/serg_visyak)
 
 
