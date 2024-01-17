@@ -8,6 +8,8 @@
 - 🎓 Graduated from SkillFactory school with a degree in QAP
 - 📚 Now I continue to read literature to improve my testing skills
 
+
+
 - 📫 Contact me at:
     - ✉️ email: sergey.visin92@gmail.com
     - Twitter: [serg_visyak](https://twitter.com/serg_visyak)
