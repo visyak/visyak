@@ -1,4 +1,4 @@
-### Hi there! My name is Sergey 👋
+## Hi there! My name is Sergey 👋
 
 ### Manual tester from Volgograd
 
